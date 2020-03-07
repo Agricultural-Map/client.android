@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template",
-    "slug": "client.android",
+    "name": "Agricultural Maps",
+    "slug": "client-android",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
