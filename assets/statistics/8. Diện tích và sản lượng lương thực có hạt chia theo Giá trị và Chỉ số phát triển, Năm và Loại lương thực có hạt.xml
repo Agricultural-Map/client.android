@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <o:DocumentProperties>
+  <Author />
+  <LastAuthor />
+  <Created />
+  <LastSaved />
+  <Company />
+  <Version />
+ </o:DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment />
+   <Borders />
+   <Font />
+   <Interior />
+   <NumberFormat />
+   <Protection />
+  </Style>
+  <Style ss:ID="d1">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="V06.08">
+  <Table>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Diện tích và sản lượng lương thực có hạt chia theo Giá trị và Chỉ số phát triển, Năm và Loại lương thực có hạt</Data>
+    </Cell>
+   </Row>
+   <Row />
+   <Row />
+   <Row>
+    <Cell />
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">Tổng Diện tích (Nghìn ha )</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Diện tích Lúa (Nghìn ha )</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Diện tích Ngô (Nghìn ha )</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String"> Tổng Sản lượng (Nghìn tấn )</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Sản lượng Lúa (Nghìn tấn )</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Sản lượng Ngô (Nghìn tấn )</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Giá trị</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2010</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.615,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.489,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.125,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">44.632,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40.005,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.625,7</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2011</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.777,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.655,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.121,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">47.235,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">42.398,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.835,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2012</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.918,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.761,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.156,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">48.712,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">43.737,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.973,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2013</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">9.074,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.902,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.170,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">49.231,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">44.039,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5.191,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2014</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.996,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.816,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.179,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">50.178,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">44.974,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5.202,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2015</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">9.008,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.828,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.178,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">50.379,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">45.091,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5.287,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2016</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.890,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.737,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.152,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">48.416,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">43.165,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5.246,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2017</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.806,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.705,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.099,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">47.852,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">42.738,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5.109,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">Sơ bộ 2018</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.611,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7.570,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.039,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">48.888,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">43.979,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.905,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Chỉ số phát triển (Năm trước = 100)   - %</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2010</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">103,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">103,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">102,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">105,8</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2011</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">102,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">105,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">106,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">104,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2012</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">103,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">103,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">103,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">102,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2013</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">104,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2014</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">98,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">102,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2015</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2016</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">98,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">98,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">97,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">96,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">95,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2017</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">95,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">98,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">97,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">Sơ bộ 2018</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">97,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">98,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">94,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">102,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">102,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">96,0</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String" />
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String" />
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Đơn vị tính:</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">  </Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String" />
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Mã tham chiếu nội tại:</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">V06.08</Data>
+    </Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

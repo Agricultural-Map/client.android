@@ -1,0 +1,2379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <o:DocumentProperties>
+  <Author />
+  <LastAuthor />
+  <Created />
+  <LastSaved />
+  <Company />
+  <Version />
+ </o:DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment />
+   <Borders />
+   <Font />
+   <Interior />
+   <NumberFormat />
+   <Protection />
+  </Style>
+  <Style ss:ID="d1">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="V06.09">
+  <Table>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Diện tích cây lương thực có hạt phân theo địa phương chia theo Tỉnh, thành phố và Năm</Data>
+    </Cell>
+   </Row>
+   <Row />
+   <Row />
+   <Row>
+    <Cell />
+    <Cell>
+     <Data ss:Type="String">2010</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2011</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2012</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2013</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2014</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2015</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2016</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">2017</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Sõ bộ 2018</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">CẢ NƯỚC</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.615,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.777,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.918,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">9.074,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.996,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">9.008,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.890,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.806,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8.611,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðồng bằng sông Hồng</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.247,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.240,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.225,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.218,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.210,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.202,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.184,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.159,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.118,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hà Nội</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">229,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">229,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">225,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">225,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">223,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">221,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">217,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">209,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">196,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hà Tây</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">..</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Vĩnh Phúc</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">73,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">74,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">73,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">74,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">74,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">73,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bắc Ninh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">75,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">73,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">71,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">68,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Quảng Ninh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">50,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">49,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">48,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">49,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">48,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">48,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">47,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">46,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hải Dương</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">132,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">130,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">130,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">130,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">129,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">126,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">124,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">122,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">120,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hải Phòng</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">83,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">82,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">81,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">79,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">75,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">73,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hưng Yên</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">90,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">90,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">89,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">89,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">87,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">86,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">82,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">73,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Thái Bình</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">175,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">174,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">172,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">171,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">171,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">172,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">172,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">171,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">168,7</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hà Nam</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">75,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">73,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">72,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Nam Ðịnh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">163,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">163,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">162,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">159,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">159,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">158,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">157,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">155,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">153,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ninh Bình</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">88,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">88,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">87,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">87,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">86,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">86,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">85,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">83,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">80,7</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Trung du và miền núi phía Bắc</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.127,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.137,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.180,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.194,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.204,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.203,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.192,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.170,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.128,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hà Giang</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">84,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">87,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">90,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">90,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">91,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">91,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">91,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">92,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">92,1</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Cao Bằng</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bắc Kạn</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">37,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">39,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">38,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">39,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">41,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">39,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">38,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Tuyên Quang</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">62,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">62,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">59,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">62,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">61,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">64,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">62,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Lào Cai</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">60,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">64,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">65,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">67,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">71,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Yên Bái</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">66,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">65,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">67,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">71,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Thái Nguyên</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">87,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">89,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">90,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">91,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">92,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">93,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">92,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">88,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">87,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Lạng Sơn</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">72,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">72,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">72,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">71,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">72,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">70,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,8</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bắc Giang</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">124,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">123,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">120,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">120,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">122,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">122,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">120,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">117,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">114,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Phú Thọ</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">89,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">91,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">86,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">88,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">88,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">88,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">86,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">85,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">80,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðiện Biên</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">75,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">79,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">79,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">80,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">80,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">81,1</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Lai Châu</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">49,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">49,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">50,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">52,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">55,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Sơn La</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">177,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">171,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">216,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">219,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">216,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">212,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">204,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">189,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">164,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hoà Bình</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">75,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">78,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">72,1</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bắc Trung Bộ và Duyên hải miền Trung</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.427,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.436,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.439,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.436,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.452,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.431,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.423,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.453,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">1.422,1</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Thanh Hoá</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">308,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">309,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">305,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">308,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">313,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">313,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">306,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">301,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">289,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Nghệ An</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">246,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">243,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">242,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">240,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">243,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">245,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">244,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">244,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">238,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hà Tĩnh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">107,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">107,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">105,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">106,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">109,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">110,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">113,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">111,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">112,0</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Quảng Bình</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">56,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">57,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">58,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">58,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">58,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">58,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">59,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">60,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">59,1</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Quảng Trị</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">52,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">52,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Thừa Thiên Huế</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">55,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">55,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">55,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">55,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">55,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">56,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">56,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">56,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">56,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðà Nẵng</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">6,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">5,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Quảng Nam</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">98,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">102,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">100,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">101,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">99,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">98,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Quảng Ngãi</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">83,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">82,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">84,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">85,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">84,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">85,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">86,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">86,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">85,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bình Ðịnh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">120,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">120,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">119,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">110,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">114,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">114,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">111,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">113,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">111,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Phú Yên</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">64,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">64,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">62,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">62,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Khánh Hoà</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">50,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">52,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">46,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,0</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ninh Thuận</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">52,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">57,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">59,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">57,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">49,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">53,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">61,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bình Thuận</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">125,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">128,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">132,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">135,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">139,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">134,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">123,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">142,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">141,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Tây Nguyên</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">454,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">456,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">476,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">484,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">487,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">478,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">469,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">460,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">461,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Kon Tum</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">30,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">29,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">30,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">30,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">30,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">30,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">30,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">30,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">29,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Gia Lai</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">127,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">121,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">126,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">126,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">127,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">126,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">124,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">122,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">120,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðắk Lắk</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">195,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">200,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">207,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">213,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">216,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">211,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">206,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">201,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">201,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðắk Nông</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">54,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">61,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">64,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">65,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">64,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">69,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Lâm Ðồng</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">50,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">51,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">48,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">47,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">45,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">42,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">42,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">38,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðông Nam Bộ</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">374,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">371,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">373,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">360,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">353,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">352,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">345,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">342,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">339,8</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bình Phước</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">21,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">18,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">20,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">18,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">17,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">18,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">16,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">16,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">16,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Tây Ninh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">160,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">160,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">160,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">151,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">147,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">149,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">148,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">152,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">155,3</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bình Dương</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">10,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">10,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">10,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">9,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">8,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">7,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðồng Nai</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">117,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">118,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">119,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">118,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">117,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">115,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">113,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">106,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">104,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bà Rịa - Vũng Tàu</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">39,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">39,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">40,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">39,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">38,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">38,7</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">TP.Hồ Chí Minh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">25,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">22,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">23,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">22,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">22,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">21,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">20,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">19,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">17,8</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðồng bằng sông Cửu Long</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">3.983,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.134,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.223,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.380,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.287,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.339,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.276,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.220,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">4.140,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Long An</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">476,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">489,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">503,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">531,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">523,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">527,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">529,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">528,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">512,6</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Tiền Giang</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">248,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">246,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">246,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">239,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">234,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">229,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">219,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">215,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">206,0</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bến Tre</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">81,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">77,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">76,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">72,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">67,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">63,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">42,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">55,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">52,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Trà Vinh</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">237,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">238,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">232,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">240,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">241,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">241,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">214,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">224,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">227,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Vĩnh Long</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">171,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">183,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">187,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">183,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">181,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">181,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">177,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">170,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">163,4</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Ðồng Tháp</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">468,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">506,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">492,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">546,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">533,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">550,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">556,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">543,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">524,7</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">An Giang</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">596,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">618,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">635,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">652,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">635,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">652,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">677,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">649,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">630,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Kiên Giang</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">642,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">687,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">725,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">770,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">753,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">769,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">766,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">735,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">728,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Cần Thơ</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">210,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">225,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">229,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">237,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">233,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">239,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">241,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">241,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">238,5</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Hậu Giang</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">212,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">214,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">216,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">214,2</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">208,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">210,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">205,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">209,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">197,8</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Sóc Trăng</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">353,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">352,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">369,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">377,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">367,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">366,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">360,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">352,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">355,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Bạc Liêu</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">158,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">164,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">178,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">182,0</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">180,4</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">180,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">172,5</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">180,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">185,2</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Cà Mau</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">125,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">130,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">129,7</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">130,3</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">127,9</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">127,1</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">112,8</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">113,6</Data>
+    </Cell>
+    <Cell ss:StyleID="d1">
+     <Data ss:Type="String">117,9</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String" />
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String" />
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Giai đoạn 1995 - 2003, số liệu của tỉnh Lai Châu bao gồm cả tỉnh Ðiện Biên, tỉnh Ðắk Lắc bao gồm cả tỉnh Ðắk Nông, thành phố Cần Thơ gồm cả tỉnh Hậu Giang. Từ năm 2008 tới nay, số liệu thành phố Hà Nội bao gồm cả tỉnh Hà Tây.</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String" />
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Đơn vị tính:</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Nghìn ha</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String" />
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Mã tham chiếu nội tại:</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">V06.09</Data>
+    </Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>
