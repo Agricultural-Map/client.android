@@ -61,5 +61,25 @@ export default StyleSheet.create({
         fontSize: 20,
         color: 'white',
         marginLeft: 9
+    },
+    searchableItemStyle: {
+        marginTop: 2,
+        paddingHorizontal: 10,
+        backgroundColor: '#ddd',
+        borderColor: '#bbb',
+        borderWidth: 1,
+        borderRadius: 5
+    },
+    searchableHeight: {
+        maxHeight: 115
+    },
+    searchableInput: {
+        paddingHorizontal: 10,
+        borderWidth: 1,
+        borderColor: '#ccc',
+        borderRadius: 5
+    },
+    containerStyle: {
+        paddingTop: 5
     }
 });

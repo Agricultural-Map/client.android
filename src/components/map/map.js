@@ -6,12 +6,15 @@ import MapView from 'react-native-maps';
 import styles from './styles';
 import MapFilter from './map-filter';
 
+const defaultGeoJson = { data: null, key: null };
+
 export default function Map(props) {
 
     const { width, height } = Dimensions.get('window');
     const [chooseValue, setChooseValue] = useState([]);
     const [modalVisible, setModalVisible] = useState(false);
 
+    const [curGeoJson, setCurGeoJson] = useState(defaultGeoJson);
     const [region, setRegion] = useState({
         latitude: 16.047079,
         longitude: 108.206230,
@@ -40,11 +43,19 @@ export default function Map(props) {
                 <View style={{ width, height }}>
                     <MapView
                         style={styles.map}
-                        initialRegion={region} />
+                        initialRegion={region}
+                        geo >
+                        <Geojson
+                            geojson={curGeoJson.data}
+                            strokeColor='blue'
+                            fillColor='lightblue'
+                            strokeWidth={2}
+                        />
+                    </MapView>
                     <MapFilter
                         visible={modalVisible}
                         value={chooseValue}
-                        onChange={onChange} />
+                        onChange={onCloseModal} />
                     <View style={styles.mapFuncBottom}>
                         <Button iconLeft style={[styles.pickerButton, styles.shadow]} onPress={() => setModalVisible(true)}>
                             <Icon name='map' style={styles.icon} />
@@ -62,12 +73,59 @@ export default function Map(props) {
         props.navigation.toggleDrawer();
     }
 
-    function onChange(hasData, data) {
+    function onCloseModal(hasData, data) {
         if (hasData == false) {
             setModalVisible(false);
         }
         else {
-            setChooseValue(data);
+            handleChooseLocation(data, true);
+        }
+    }
+
+    function handleChooseLocation(value, isFitBounds) {
+        let param = '';
+
+        // Get path
+        for (let i = 0; i < value.length && i < 2; i++) {
+            param += '/' + value[i];
+        }
+
+        if (param.length > 0) {
+            const path = param == null ? 'vietnam' : ('vietnam' + param);
+
+            // eslint-disable-next-line
+            const geoJson = require(`../../../assets/maps/adm/${path}.json`);
+
+            // If there is no file match, then invalid district
+            if (geoJson == null) {
+                setCurGeoJson(defaultGeoJson);
+                return;
+            }
+
+            // Change current geojson
+            if (value[2] == null) {
+                setCurGeoJson({
+                    data: geoJson,
+                    key: path
+                });
+                if (mapRef.current && isFitBounds) {
+                    mapRef.current.leafletElement.fitBounds(L.geoJson(geoJson).getBounds());
+                }
+            } else {
+                geoJson.features.forEach(feature => {
+                    if (feature.properties.NAME_3 === value[2]) {
+                        setCurGeoJson({
+                            data: feature,
+                            key: path + '/' + value[2]
+                        });
+                        if (mapRef.current && isFitBounds) {
+                            mapRef.current.leafletElement.fitBounds(L.geoJson(feature).getBounds());
+                        }
+                    }
+                });
+            }
+        } else {
+            setCurGeoJson(defaultGeoJson);
         }
     }
 }
