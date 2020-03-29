@@ -122,7 +122,7 @@ export default function MapFilter(props) {
         if (village.length > 0) {
             result.push(village);
         }
-        onChange(result);
+        onChange(result.length > 0, result);
     }
 
     function onRemoveItem(item, index) {

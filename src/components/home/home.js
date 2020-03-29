@@ -5,6 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { Button } from 'native-base';
 import styles from './styles';
 import Map from '../map';
+import Share from '../share';
 
 const Drawer = createDrawerNavigator();
 
@@ -49,6 +50,10 @@ export default function Home() {
                     name='Agricultural Maps'
                     component={Map}
                     options={{ title: 'Bản đồ nông nghiệp' }} />
+                <Drawer.Screen
+                    name='Share'
+                    component={Share}
+                    options={{ title: 'Chia sẻ dữ liệu' }} />
                 {/* Add more screen here */}
             </Drawer.Navigator>
         </NavigationContainer>

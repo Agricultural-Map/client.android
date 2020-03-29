@@ -1,14 +1,17 @@
-import React, { useState } from 'react';
+import React, { useState, createRef } from 'react';
 import { View, Dimensions, Text } from 'react-native';
 import { Container, Header, Content, Left, Body, Right, Icon, Title, Button } from 'native-base';
 import { Modal } from 'antd-mobile-rn';
-import MapView from 'react-native-maps';
+import MapView, { Geojson } from 'react-native-maps';
 import styles from './styles';
 import MapFilter from './map-filter';
+import getGeojson from './get-geojson';
 
 const defaultGeoJson = { data: null, key: null };
 
 export default function Map(props) {
+
+    const mapRef = createRef();
 
     const { width, height } = Dimensions.get('window');
     const [chooseValue, setChooseValue] = useState([]);
@@ -42,15 +45,19 @@ export default function Map(props) {
             <Content scrollEnabled={false}>
                 <View style={{ width, height }}>
                     <MapView
+                        ref={mapRef}
                         style={styles.map}
-                        initialRegion={region}
-                        geo >
-                        <Geojson
-                            geojson={curGeoJson.data}
-                            strokeColor='blue'
-                            fillColor='lightblue'
-                            strokeWidth={2}
-                        />
+                        initialRegion={region} >
+                        {
+                            curGeoJson?.data != null ?
+                                <Geojson
+                                    geojson={curGeoJson.data}
+                                    strokeColor='blue'
+                                    fillColor='lightblue'
+                                    strokeWidth={2}
+                                /> : null
+                        }
+
                     </MapView>
                     <MapFilter
                         visible={modalVisible}
@@ -74,11 +81,13 @@ export default function Map(props) {
     }
 
     function onCloseModal(hasData, data) {
-        if (hasData == false) {
+        if (hasData === false) {
             setModalVisible(false);
         }
         else {
-            handleChooseLocation(data, true);
+            // setModalVisible(false);
+            alert(JSON.stringify(data));
+            // handleChooseLocation(data, true);
         }
     }
 
@@ -93,8 +102,9 @@ export default function Map(props) {
         if (param.length > 0) {
             const path = param == null ? 'vietnam' : ('vietnam' + param);
 
+
             // eslint-disable-next-line
-            const geoJson = require(`../../../assets/maps/adm/${path}.json`);
+            const geoJson = getGeojson(`../../../assets/maps/adm/${path}.json`);
 
             // If there is no file match, then invalid district
             if (geoJson == null) {
@@ -109,7 +119,11 @@ export default function Map(props) {
                     key: path
                 });
                 if (mapRef.current && isFitBounds) {
-                    mapRef.current.leafletElement.fitBounds(L.geoJson(geoJson).getBounds());
+                    // const boundary = L.geoJson(feature).getBounds();
+                    // mapRef.current.fitToCoordinates(
+                    //     { latitude: 52.519972, longitude: 13.348412 },
+                    //     { latitude: 52.504231, longitude: 13.318503 }
+                    // );
                 }
             } else {
                 geoJson.features.forEach(feature => {
@@ -119,7 +133,11 @@ export default function Map(props) {
                             key: path + '/' + value[2]
                         });
                         if (mapRef.current && isFitBounds) {
-                            mapRef.current.leafletElement.fitBounds(L.geoJson(feature).getBounds());
+                            // const boundary = L.geoJson(feature).getBounds();
+                            // mapRef.current.fitToCoordinates(
+                            //     { latitude: 52.519972, longitude: 13.348412 },
+                            //     { latitude: 52.504231, longitude: 13.318503 }
+                            // );
                         }
                     }
                 });
